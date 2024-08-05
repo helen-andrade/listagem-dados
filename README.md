@@ -1,4 +1,6 @@
-# Projeto realizado utilizando React, e para estilização aderi ao Tailwind CSS, um framework de desenvolvimento front-end. Os botões são funcionais e uma api é usada.
+# Listagem de dados
+
+## Projeto realizado utilizando React, e para estilização aderi ao Tailwind CSS, um framework de desenvolvimento front-end. Os botões são funcionais e uma api é usada.
 
 <p align="center">
   <img src="./src/assets/1.png" alt="Imagem 1 do projeto">
